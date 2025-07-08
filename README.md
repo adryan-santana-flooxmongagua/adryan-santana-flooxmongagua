@@ -1,6 +1,6 @@
 # Meu GitHub
 
-Atualmente, estou estudando programação e desenvolvendo projetos enquanto aprendo novas tecnologias. Aqui você encontra alguns dos trabalhos que refletem meu progresso e prática no desenvolvimento.
+Atualmente, estou estudando programação e desenvolvendo projetos enquanto aprendo novas tecnologias. Aqui você encontra alguns dos trabalhos que refletem meu progresso e prática no desenvolvimento como Trainee na Empresa Floox.AI
 
 ## Estatísticas do GitHub
 
